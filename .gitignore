@@ -79,5 +79,5 @@ typings/
 # FuseBox cache
 .fusebox/
 
-# DynamoDB Local files
+# DynamoDB Localfiles
 .dynamodb/
