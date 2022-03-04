@@ -1,5 +1,9 @@
 image: Ubuntu1804  # образ для сборки
 
+environment:
+  my_variable:
+    secure: EHkSz3WsachlxjbZZ6KiMfqyjdyZEBBfMazAi0S/XU49891ZU6nSeCcrvfg45JTf
+
 stack: node 10  # окружение
 
 branches:
